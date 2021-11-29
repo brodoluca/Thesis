@@ -1,0 +1,340 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{WDESP17}
+
+\bibitem[10.16]{10.1145/2959100}
+{\em RecSys '16: Proceedings of the 10th ACM Conference on Recommender
+  Systems}, New York, NY, USA, 2016. Association for Computing Machinery.
+
+\bibitem[AAB{\etalchar{+}}15a]{tensorflow2015-whitepaper}
+Mart\'{\i}n Abadi, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen,
+  Craig Citro, Greg~S. Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin,
+  Sanjay Ghemawat, Ian Goodfellow, Andrew Harp, Geoffrey Irving, Michael Isard,
+  Yangqing Jia, Rafal Jozefowicz, Lukasz Kaiser, Manjunath Kudlur, Josh
+  Levenberg, Dandelion Man\'{e}, Rajat Monga, Sherry Moore, Derek Murray, Chris
+  Olah, Mike Schuster, Jonathon Shlens, Benoit Steiner, Ilya Sutskever, Kunal
+  Talwar, Paul Tucker, Vincent Vanhoucke, Vijay Vasudevan, Fernanda Vi\'{e}gas,
+  Oriol Vinyals, Pete Warden, Martin Wattenberg, Martin Wicke, Yuan Yu, and
+  Xiaoqiang Zheng.
+\newblock {TensorFlow}: Large-scale machine learning on heterogeneous systems,
+  2015.
+\newblock Software available from tensorflow.org.
+
+\bibitem[AAB{\etalchar{+}}15b]{amodei2015deep}
+Dario Amodei, Rishita Anubhai, Eric Battenberg, Carl Case, Jared Casper, Bryan
+  Catanzaro, Jingdong Chen, Mike Chrzanowski, Adam Coates, Greg Diamos, Erich
+  Elsen, Jesse Engel, Linxi Fan, Christopher Fougner, Tony Han, Awni Hannun,
+  Billy Jun, Patrick LeGresley, Libby Lin, Sharan Narang, Andrew Ng, Sherjil
+  Ozair, Ryan Prenger, Jonathan Raiman, Sanjeev Satheesh, David Seetapun,
+  Shubho Sengupta, Yi~Wang, Zhiqian Wang, Chong Wang, Bo~Xiao, Dani Yogatama,
+  Jun Zhan, and Zhenyao Zhu.
+\newblock Deep speech 2: End-to-end speech recognition in english and mandarin,
+  2015.
+
+\bibitem[AAUS{\etalchar{+}}19]{ayaz_internet--things_2019}
+Muhammad Ayaz, Mohammad Ammad-Uddin, Zubair Sharif, Ali Mansour, and El-Hadi~M.
+  Aggoune.
+\newblock Internet-of-{Things} ({IoT})-{Based} {Smart} {Agriculture}: {Toward}
+  {Making} the {Fields} {Talk}.
+\newblock {\em IEEE Access}, 7:129551--129583, 2019.
+
+\bibitem[AR20]{Afaq2020SignificanceOE}
+Saahil Afaq and Smitha Rao.
+\newblock Significance of epochs on training a neural network.
+\newblock {\em International Journal of Scientific \& Technology Research},
+  9:485--488, 2020.
+
+\bibitem[BC18]{DBLP:journals/corr/abs-1811-01412}
+Martin Becker and Samarjit Chakraborty.
+\newblock Measuring software performance on linux.
+\newblock {\em CoRR}, abs/1811.01412, 2018.
+
+\bibitem[BCCN18]{bianco2018dnnsbench}
+Simone Bianco, Remi Cadene, Luigi Celona, and Paolo Napoletano.
+\newblock Benchmark analysis of representative deep neural network
+  architectures.
+\newblock {\em IEEE Access}, 6:64270--64277, 2018.
+
+\bibitem[BLW17]{Beyer2017ReliableBR}
+Dirk Beyer, Stefan L{\"o}we, and Philipp Wendler.
+\newblock Reliable benchmarking: requirements and solutions.
+\newblock {\em International Journal on Software Tools for Technology
+  Transfer}, 21:1--29, 2017.
+
+\bibitem[BP20]{bhadra_weed_2020}
+Tamalika Bhadra and Swapan Paul.
+\newblock Weed management in sugar beet: {A} review.
+\newblock {\em Fundamental and Applied Agriculture}, 5(0):1, 2020.
+
+\bibitem[BTD{\etalchar{+}}16]{bojarski2016end}
+Mariusz Bojarski, Davide~Del Testa, Daniel Dworakowski, Bernhard Firner, Beat
+  Flepp, Prasoon Goyal, Lawrence~D. Jackel, Mathew Monfort, Urs Muller, Jiakai
+  Zhang, Xin Zhang, Jake Zhao, and Karol Zieba.
+\newblock End to end learning for self-driving cars, 2016.
+
+\bibitem[CBB17]{10.1145/3089801.3089804}
+Qingqing Cao, Niranjan Balasubramanian, and Aruna Balasubramanian.
+\newblock Mobirnn: Efficient recurrent neural network execution on mobile gpu.
+\newblock In {\em Proceedings of the 1st International Workshop on Deep
+  Learning for Mobile Systems and Applications}, EMDL '17, page 1–6, New
+  York, NY, USA, 2017. Association for Computing Machinery.
+
+\bibitem[CCG17]{8090194}
+Emine Cengil, Ahmet Cinar, and Zafer Gueler.
+\newblock A gpu-based convolutional neural network approach for image
+  classification.
+\newblock In {\em 2017 International Artificial Intelligence and Data
+  Processing Symposium (IDAP)}, pages 1--6, 2017.
+
+\bibitem[CNK{\etalchar{+}}17]{Coleman2017DAWNBenchA}
+Cody~A. Coleman, Deepak Narayanan, Daniel Kang, Tian Zhao, Jian Zhang, Luigi
+  Nardi, Peter Bailis, Kunle Olukotun, Christopher R{\'e}, and Matei~A.
+  Zaharia.
+\newblock Dawnbench : An end-to-end deep learning benchmark and competition.
+\newblock 2017.
+
+\bibitem[CPC16]{DBLP:journals/corr/CanzianiPC16}
+Alfredo Canziani, Adam Paszke, and Eugenio Culurciello.
+\newblock An analysis of deep neural network models for practical applications.
+\newblock {\em CoRR}, abs/1605.07678, 2016.
+
+\bibitem[GBC16]{Goodfellow-et-al-2016}
+Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+\newblock {\em Deep Learning}.
+\newblock MIT Press, 2016.
+\newblock \url{http://www.deeplearningbook.org}.
+
+\bibitem[GDP09]{10.1007/978-3-642-04274-4_39}
+Alexander Guzhva, Sergey Dolenko, and Igor Persiantsev.
+\newblock Multifold acceleration of neural network computations using gpu.
+\newblock In Cesare Alippi, Marios Polycarpou, Christos Panayiotou, and
+  Georgios Ellinas, editors, {\em Artificial Neural Networks -- ICANN 2009},
+  pages 373--380, Berlin, Heidelberg, 2009. Springer Berlin Heidelberg.
+
+\bibitem[Gei21]{Correct_inference_measure}
+Amnon Geifman.
+\newblock The correct way to measure inference time of deep neural networks,
+  2021.
+
+\bibitem[GIC20]{glaroudis_survey_2020}
+Dimitrios Glaroudis, Athanasios Iossifides, and Periklis Chatzimisios.
+\newblock Survey, comparison and research challenges of {IoT} application
+  protocols for smart farming.
+\newblock {\em Computer Networks}, 168:107037, February 2020.
+
+\bibitem[GTA{\etalchar{+}}21]{gawlikowski2021survey}
+Jakob Gawlikowski, Cedrique Rovile~Njieutcheu Tassi, Mohsin Ali, Jongseok Lee,
+  Matthias Humt, Jianxiang Feng, Anna Kruspe, Rudolph Triebel, Peter Jung,
+  Ribana Roscher, Muhammad Shahzad, Wen Yang, Richard Bamler, and Xiao~Xiang
+  Zhu.
+\newblock A survey of uncertainty in deep neural networks, 2021.
+
+\bibitem[HEKK19]{hooker2019benchmark}
+Sara Hooker, Dumitru Erhan, Pieter-Jan Kindermans, and Been Kim.
+\newblock A benchmark for interpretability methods in deep neural networks,
+  2019.
+
+\bibitem[HLM{\etalchar{+}}16]{han2016eie}
+Song Han, Xingyu Liu, Huizi Mao, Jing Pu, Ardavan Pedram, Mark~A. Horowitz, and
+  William~J. Dally.
+\newblock Eie: Efficient inference engine on compressed deep neural network,
+  2016.
+
+\bibitem[HSHK21]{Separation_uncer}
+Denis Huseljic, Bernhard Sick, Marek Herde, and Daniel Kottke.
+\newblock Separation of aleatoric and epistemic uncertainty in deterministic
+  deep neural networks.
+\newblock In {\em 2020 25th International Conference on Pattern Recognition
+  (ICPR)}, pages 9172--9179, 2021.
+
+\bibitem[HW21]{uncertainity_classi}
+Eyke Hüllermeier and Willem Waegeman.
+\newblock Aleatoric and epistemic uncertainty in machine learning: an
+  introduction to concepts and methods.
+\newblock {\em Machine Learning}, 110, 03 2021.
+
+\bibitem[HWT{\etalchar{+}}15]{huval2015empirical}
+Brody Huval, Tao Wang, Sameep Tandon, Jeff Kiske, Will Song, Joel
+  Pazhayampallil, Mykhaylo Andriluka, Pranav Rajpurkar, Toki Migimatsu, Royce
+  Cheng-Yue, Fernando Mujica, Adam Coates, and Andrew~Y. Ng.
+\newblock An empirical evaluation of deep learning on highway driving, 2015.
+
+\bibitem[IRP{\etalchar{+}}21]{islam_review_2021}
+Nahina Islam, Md~Mamunur Rashid, Faezeh Pasandideh, Biplob Ray, Steven Moore,
+  and Rajan Kadel.
+\newblock A {Review} of {Applications} and {Communication} {Technologies} for
+  {Internet} of {Things} ({IoT}) and {Unmanned} {Aerial} {Vehicle} ({UAV})
+  {Based} {Sustainable} {Smart} {Farming}.
+\newblock {\em Sustainability}, 13(4):1821, February 2021.
+
+\bibitem[ITK{\etalchar{+}}19]{ignatov2019ai}
+Andrey Ignatov, Radu Timofte, Andrei Kulik, Seungsoo Yang, Ke~Wang, Felix Baum,
+  Max Wu, Lirong Xu, and Luc~Van Gool.
+\newblock Ai benchmark: All about deep learning on smartphones in 2019, 2019.
+
+\bibitem[KD09]{KIUREGHIAN2009105}
+Armen~Der Kiureghian and Ove Ditlevsen.
+\newblock Aleatory or epistemic? does it matter?
+\newblock {\em Structural Safety}, 31(2):105--112, 2009.
+\newblock Risk Acceptance and Risk Communication.
+
+\bibitem[Ker10]{linux_commands}
+Michael Kerrisk.
+\newblock {\em The Linux Programming Interface: A Linux and UNIX System
+  Programming Handbook}.
+\newblock No Starch Press, USA, 1st edition, 2010.
+
+\bibitem[Ker21]{LinuxManualWeb}
+Michael Kerrisk.
+\newblock Linux manual page, 2021.
+
+\bibitem[KG17]{DBLP:journals/corr/KendallG17}
+Alex Kendall and Yarin Gal.
+\newblock What uncertainties do we need in bayesian deep learning for computer
+  vision?
+\newblock {\em CoRR}, abs/1703.04977, 2017.
+
+\bibitem[LHS{\etalchar{+}}16]{lottes_effective_2016}
+P.~Lottes, M.~Hoeferlin, S.~Sander, M.~Muter, P.~Schulze, and Lammers~C.
+  Stachniss.
+\newblock An effective classification system for separating sugar beets and
+  weeds for precision farming applications.
+\newblock In {\em 2016 {IEEE} {International} {Conference} on {Robotics} and
+  {Automation} ({ICRA})}, pages 5157--5163, Stockholm, Sweden, May 2016. IEEE.
+
+\bibitem[LHZ{\etalchar{+}}20]{luo2020comparison}
+Chunjie Luo, Xiwen He, Jianfeng Zhan, Lei Wang, Wanling Gao, and Jiahui Dai.
+\newblock Comparison and benchmarking of ai models and frameworks on mobile
+  devices, 2020.
+
+\bibitem[Mas91]{masclef_sugar_1891}
+Amédée Masclef.
+\newblock Sugar {Beet}, 1891.
+
+\bibitem[May03]{may_economic_2003}
+M~J May.
+\newblock Economic consequences for {UK} farmers of growing {GM} herbicide
+  tolerant sugar beet.
+\newblock {\em Annals of Applied Biology}, 142(1):41--48, February 2003.
+
+\bibitem[Mit97]{machine_learning}
+Tom~M Mitchell.
+\newblock {\em Machine Learning}.
+\newblock New York McGraw-Hill, 1997.
+
+\bibitem[Mur16]{murphy2016overview}
+John Murphy.
+\newblock An overview of convolutional neural network architectures for deep
+  learning.
+\newblock {\em Microway Inc}, 2016.
+
+\bibitem[NYC15]{nguyen2015deep}
+Anh Nguyen, Jason Yosinski, and Jeff Clune.
+\newblock Deep neural networks are easily fooled: High confidence predictions
+  for unrecognizable images, 2015.
+
+\bibitem[OFR{\etalchar{+}}19]{ovadia2019trust}
+Yaniv Ovadia, Emily Fertig, Jie Ren, Zachary Nado, D~Sculley, Sebastian
+  Nowozin, Joshua~V. Dillon, Balaji Lakshminarayanan, and Jasper Snoek.
+\newblock Can you trust your model's uncertainty? evaluating predictive
+  uncertainty under dataset shift, 2019.
+
+\bibitem[OJ04]{OH20041311}
+Kyoung-Su Oh and Keechul Jung.
+\newblock Gpu implementation of neural networks.
+\newblock {\em Pattern Recognition}, 37(6):1311--1314, 2004.
+
+\bibitem[PE89]{118273}
+Perugini and Engeler.
+\newblock Neural network learning time: effects of network and training set
+  size.
+\newblock In {\em International 1989 Joint Conference on Neural Networks},
+  pages 395--401 vol.2, 1989.
+
+\bibitem[PJY{\etalchar{+}}13]{paine2013gpu}
+Thomas Paine, Hailin Jin, Jianchao Yang, Zhe Lin, and Thomas Huang.
+\newblock Gpu asynchronous stochastic gradient descent to speed up neural
+  network training, 2013.
+
+\bibitem[RCK{\etalchar{+}}20]{reddi2020mlperf}
+Vijay~Janapa Reddi, Christine Cheng, David Kanter, Peter Mattson, Guenther
+  Schmuelling, Carole-Jean Wu, Brian Anderson, Maximilien Breughe, Mark
+  Charlebois, William Chou, Ramesh Chukka, Cody Coleman, Sam Davis, Pan Deng,
+  Greg Diamos, Jared Duke, Dave Fick, J.~Scott Gardner, Itay Hubara, Sachin
+  Idgunji, Thomas~B. Jablin, Jeff Jiao, Tom~St. John, Pankaj Kanwar, David Lee,
+  Jeffery Liao, Anton Lokhmotov, Francisco Massa, Peng Meng, Paulius
+  Micikevicius, Colin Osborne, Gennady Pekhimenko, Arun Tejusve~Raghunath
+  Rajan, Dilip Sequeira, Ashish Sirasao, Fei Sun, Hanlin Tang, Michael Thomson,
+  Frank Wei, Ephrem Wu, Lingjie Xu, Koichi Yamada, Bing Yu, George Yuan, Aaron
+  Zhong, Peizhao Zhang, and Yuchen Zhou.
+\newblock Mlperf inference benchmark, 2020.
+
+\bibitem[RGC{\etalchar{+}}16]{rhu2016vdnn}
+Minsoo Rhu, Natalia Gimelshein, Jason Clemons, Arslan Zulfiqar, and Stephen~W.
+  Keckler.
+\newblock vdnn: Virtualized deep neural networks for scalable, memory-efficient
+  neural network design, 2016.
+
+\bibitem[Rud17]{ruder2017overview}
+Sebastian Ruder.
+\newblock An overview of gradient descent optimization algorithms, 2017.
+
+\bibitem[SD89]{schweizer_weed_1989}
+EE~Schweizer and A.G Dexter.
+\newblock "{Weed} control in sugarbeets ({Beta} vulgaris) in {North}
+  {America}".
+\newblock 1989.
+
+\bibitem[SGSS16]{singh_machine_2016}
+Arti Singh, Baskar Ganapathysubramanian, Asheesh~Kumar Singh, and Soumik
+  Sarkar.
+\newblock Machine {Learning} for {High}-{Throughput} {Stress} {Phenotyping} in
+  {Plants}.
+\newblock {\em Trends in Plant Science}, 21(2):110--124, 2016.
+
+\bibitem[SKD19]{Number_of_DL_papers}
+Kyoung Song, Myeongchan Kim, and Synho Do.
+\newblock The latest trends in the use of deep learning in radiology
+  illustrated through the stages of deep learning algorithm development.
+\newblock {\em Journal of the Korean Society of Radiology}, 80:202, 03 2019.
+
+\bibitem[Ste01]{Stewart2001MeasuringET}
+David~B. Stewart.
+\newblock Measuring execution time and real-time performance.
+\newblock 2001.
+
+\bibitem[UKG{\etalchar{+}}20]{Unterthiner2020PredictingNN}
+Thomas Unterthiner, Daniel Keysers, Sylvain Gelly, Olivier Bousquet, and
+  Ilya~O. Tolstikhin.
+\newblock Predicting neural network accuracy from weights.
+\newblock {\em ArXiv}, abs/2002.11448, 2020.
+
+\bibitem[UKG{\etalchar{+}}21]{unterthiner2021predicting}
+Thomas Unterthiner, Daniel Keysers, Sylvain Gelly, Olivier Bousquet, and Ilya
+  Tolstikhin.
+\newblock Predicting neural network accuracy from weights, 2021.
+
+\bibitem[vKAH{\etalchar{+}}15]{how_to_bench}
+Jóakim von Kistowski, Jeremy Arnold, Karl Huppler, Klaus-Dieter Lange, John
+  Henning, and Paul Cao.
+\newblock How to build a benchmark.
+\newblock 02 2015.
+
+\bibitem[WDESP17]{Real-Time-Systems}
+Peter Wägemann, Tobias Distler, Christian Eichler, and Wolfgang
+  Schröder-Preikschat.
+\newblock Benchmark generation for timing analysis.
+\newblock In {\em 2017 IEEE Real-Time and Embedded Technology and Applications
+  Symposium (RTAS)}, pages 319--330, 2017.
+
+\bibitem[ZAZ{\etalchar{+}}18]{8573476}
+Hongyu Zhu, Mohamed Akrout, Bojian Zheng, Andrew Pelegris, Anand Jayarajan,
+  Amar Phanishayee, Bianca Schroeder, and Gennady Pekhimenko.
+\newblock Benchmarking and analyzing deep neural network training.
+\newblock In {\em 2018 IEEE International Symposium on Workload
+  Characterization (IISWC)}, pages 88--100, 2018.
+
+\bibitem[ZS21]{intel_bench_suite}
+Gennady Fedorov~Shaojuan Zhu and Abhinav Singh.
+\newblock Intel® oneapi math kernel library (onemkl) benchmarks suite, 2021.
+
+\end{thebibliography}

@@ -1,0 +1,20 @@
+\babel@toc {ngerman}{}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Representation of a sugar beet plant}}{XII}{figure.caption.4}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Trend in publications about Deep Learning}}{XIV}{figure.caption.5}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Differences between how DNNs and humans recognize objects}}{XVI}{figure.caption.6}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Illustrating the difference between aleatoric and epistemic uncertainty}}{XVII}{figure.caption.7}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Example of use for the function \textit {clock()}\relax }}{XXII}{figure.caption.8}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Synopsis of the command \textit {time}\relax }}{XXII}{figure.caption.9}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Program used to test the command \textit {time}\relax }}{XXIII}{figure.caption.10}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Wrong benchmark for inference time}}{XXVI}{figure.caption.11}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Correct way to measure inference\relax }}{XXVI}{figure.caption.12}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Run benchmark on android with Tensorflow Lite}}{XXVII}{figure.caption.13}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Command to access the inference in Tensorflow Lite}}{XXVII}{figure.caption.14}% 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Architecture of the convolutional neural network used as an example to calculate inference time}}{XXVIII}{figure.caption.15}% 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Metrics from fast.ai fit\_one\_cycle() function}}{XXIX}{figure.caption.16}% 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Benchmark for training time\relax }}{XXX}{figure.caption.17}% 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
